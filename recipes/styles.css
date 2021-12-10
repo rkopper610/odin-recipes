@@ -1,0 +1,21 @@
+.head {
+    background-color: black;
+    color: white;
+    font-size: 22;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+#hist {
+    background-color: hsl(120, 100%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+
+.sect {
+    background-color: pink;
+    font-size: 22px;
+    font-weight: bold;
+
+}
